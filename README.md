@@ -1,2 +1,3 @@
 # mfaizan
-This is my first repositary
+This is my first repositry
+Aurthor-Faizan Sajid
